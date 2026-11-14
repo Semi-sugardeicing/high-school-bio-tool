@@ -6,7 +6,7 @@
 <img alt="纯标准库" src="https://img.shields.io/badge/%E7%BA%AF%E6%A0%87%E5%87%86%E5%BA%93-0%20deps-success?style=for-the-badge">
 <img alt="不联网" src="https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF-%E4%B8%8D%E8%81%94%E7%BD%91-informational?style=for-the-badge">
 
-![遗传杂交预测](docs/截图_杂交.jpg)
+![遗传杂交预测](docs/screenshot-cross.jpg)
 
 ## 五个功能
 
